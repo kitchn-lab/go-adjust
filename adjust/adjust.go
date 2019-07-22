@@ -18,6 +18,7 @@ import (
 
 const (
 	defaultBaseURL = "https://api.adjust.com/"
+	loginPath      = "/accounts/users/sign_in"
 	userAgent      = "go-adjust"
 )
 
@@ -62,7 +63,7 @@ func addOptions(s string, opt interface{}) (string, error) {
 func NewClient(httpClient *http.Client, email, pw, appID string) (*Client, error) {
 	if httpClient == nil {
 		var err error
-		httpClient, err = CreateSession(email, pw)
+		httpClient, err = createSession(email, pw)
 		if err != nil {
 			return nil, err
 		}
@@ -74,12 +75,25 @@ func NewClient(httpClient *http.Client, email, pw, appID string) (*Client, error
 	return c, nil
 }
 
-// CreateSession calls api and uses session cookie in http client to make calls.
-func CreateSession(email, pw string) (*http.Client, error) {
+// ValidAccountCredentials validates if user can retrieve cookie on login
+func ValidAccountCredentials(email, pw string) (bool, error) {
+	httpClient, err := createSession(email, pw)
+	if err != nil {
+		return false, err
+	}
+	u, _ := url.Parse(defaultBaseURL + loginPath)
+	cookie := httpClient.Jar.Cookies(u)
+	if len(cookie) > 0 {
+		return true, nil
+	}
+	return false, nil
+}
+
+// createSession calls api and uses session cookie in http client to make calls.
+func createSession(email, pw string) (*http.Client, error) {
 	jar, _ := cookiejar.New(nil)
 	client := &http.Client{Jar: jar}
-	path := "/accounts/users/sign_in"
-	u := defaultBaseURL + path
+	u := defaultBaseURL + loginPath
 	bs := []byte(fmt.Sprintf(`{"user":{"email":"%s","password":"%s"}}`, email, pw))
 	req, err := http.NewRequest("POST", u, bytes.NewBuffer(bs))
 	if err != nil {
