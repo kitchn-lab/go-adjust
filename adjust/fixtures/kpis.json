@@ -1,0 +1,41 @@
+{
+  "result_parameters": {
+    "kpis": [
+      "clicks",
+      "installs",
+      "click_conversion_rate",
+      "reattributions",
+      "sessions",
+      "revenue_events",
+      "revenue",
+      "daus",
+      "waus",
+      "maus"
+    ],
+    "start_date": "2019-05-01",
+    "end_date": "2019-05-09",
+    "sandbox": true,
+    "trackers": [
+      {
+        "token": "rvuz67b",
+        "name": "Apple Search Ads",
+        "has_subtrackers": true
+      }
+    ],
+    "grouping": ["trackers"],
+    "attribution_type": "click",
+    "utc_offset": "00:10",
+    "attribution_source": "dynamic"
+  },
+  "result_set": {
+    "token": "c0ztgamw02yo",
+    "name": "Kaia - gegen Rückenschmerzen",
+    "currency": "EUR",
+    "trackers": [
+      {
+        "token": "rvuz67b",
+        "kpi_values": [0, 0, 0, 0, 0, 33, 1490.07, 0, 0, 0]
+      }
+    ]
+  }
+}

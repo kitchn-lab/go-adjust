@@ -1,0 +1,4048 @@
+{
+  "result_parameters": {
+    "kpis": [
+      "Installs",
+      "Signup Completed (tam0sc) (Events)",
+      "TrialOptIn (xxwrmf) (Events)",
+      "TrialConverted (wk9hmc) (Events)",
+      "Purchase (tucsbx) (Events)"
+    ],
+    "start_date": "2019-05-01",
+    "end_date": "2019-05-09",
+    "sandbox": false,
+    "events": [
+      {
+        "name": "Signup Completed",
+        "token": "tam0sc"
+      },
+      {
+        "name": "Purchase",
+        "token": "tucsbx"
+      },
+      {
+        "name": "TrialConverted",
+        "token": "wk9hmc"
+      },
+      {
+        "name": "TrialOptIn",
+        "token": "xxwrmf"
+      }
+    ],
+    "grouping": ["day", "networks", "campaigns", "adgroups", "creatives"],
+    "attribution_type": "click",
+    "reattributed": "all",
+    "utc_offset": "00:00",
+    "attribution_source": "dynamic"
+  },
+  "result_set": {
+    "token": "c0ztgamw02yo",
+    "name": "Kaia - gegen Rückenschmerzen",
+    "currency": "EUR",
+    "dates": [
+      {
+        "date": "2019-05-01",
+        "networks": [
+          {
+            "token": "rvuz67b",
+            "name": "Apple Search Ads",
+            "campaigns": [
+              {
+                "token": "2ec67a2",
+                "name": "GB,IE_NonBrand_JG (284979913)",
+                "adgroups": [
+                  {
+                    "token": "q0zp1lo",
+                    "name": "Exact Match (285227483)",
+                    "creatives": [
+                      {
+                        "token": "bp0al6u",
+                        "name": "back strengthening exercises - kill your back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "k1bkx76",
+                        "name": "yoga",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "3jcqoyu",
+                "name": "GB,IE_HighValue_JG (285192131)",
+                "adgroups": [
+                  {
+                    "token": "uzjuyi8",
+                    "name": "Exact Match (285072214)",
+                    "creatives": [
+                      {
+                        "token": "vlyvyp7",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "48345fi",
+                "name": "US_Discovery_JG (262773151)",
+                "adgroups": [
+                  {
+                    "token": "r7mjc40",
+                    "name": "Broad Match (262780160)",
+                    "creatives": [
+                      {
+                        "token": "1xuctab",
+                        "name": "sciatica",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "61jexfh",
+                        "name": "relieve excercises",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "bn1vph7",
+                        "name": "posture",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "omh0d45",
+                        "name": "muscle trigger points",
+                        "kpi_values": [3, 3, 0, 0, 0]
+                      },
+                      {
+                        "token": "vq5hdwz",
+                        "name": "kaia back pain",
+                        "kpi_values": [3, 2, 0, 1, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "4qye3kh",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Discovery_JG (285152866)",
+                "adgroups": [
+                  {
+                    "token": "88p8em2",
+                    "name": "Broad Match (285235323)",
+                    "creatives": [
+                      {
+                        "token": "50dg0cw",
+                        "name": "mindbody",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "cxw82cl",
+                        "name": "yoga for men",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "pqigv9r",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "51ihm9k",
+                "name": "DE_Discovery_JG (262931515)",
+                "adgroups": [
+                  {
+                    "token": "a03irhz",
+                    "name": "Search Match (262987553)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 1, 0, 0, 1]
+                      }
+                    ]
+                  },
+                  {
+                    "token": "p5vpuyz",
+                    "name": "Broad Match (262987552)",
+                    "creatives": [
+                      {
+                        "token": "2j9lefr",
+                        "name": "kaia health",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "vot4uhb",
+                        "name": "die 60 besten rückenübungen",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "69zss2i",
+                "name": "US_HighValue_JG (262806613)",
+                "adgroups": [
+                  {
+                    "token": "3zbk5o6",
+                    "name": "Exact Match (262770380)",
+                    "creatives": [
+                      {
+                        "token": "19llne9",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "6c4oifx",
+                "name": "DK,FI,NL,NO,SE_HighValue_JG (285028739)",
+                "adgroups": [
+                  {
+                    "token": "ab2d7zx",
+                    "name": "Exact Match (285184035)",
+                    "creatives": [
+                      {
+                        "token": "a8re0j6",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "9a74oax",
+                "name": "US_Brand_JG (262727832)",
+                "adgroups": [
+                  {
+                    "token": "ki66hsl",
+                    "name": "Exact Match (262765074)",
+                    "creatives": [
+                      {
+                        "token": "1l3hdsw",
+                        "name": "kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "bs9w2d7",
+                "name": "GB,IE_Brand_JG (285216183)",
+                "adgroups": [
+                  {
+                    "token": "aotirz9",
+                    "name": "Exact Match (285211390)",
+                    "creatives": [
+                      {
+                        "token": "udkke3k",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "fud0nks",
+                "name": "GB,IE_Discovery_JG (285152864)",
+                "adgroups": [
+                  {
+                    "token": "rb8e7yd",
+                    "name": "Broad Match (285227484)",
+                    "creatives": [
+                      {
+                        "token": "81ojzi6",
+                        "name": "yoga men",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "p4prsrc",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "uqa3lb9",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "i10x7hr",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_NonBrand_JG (285237061)",
+                "adgroups": [
+                  {
+                    "token": "xm7vrip",
+                    "name": "Exact Match (285221928)",
+                    "creatives": [
+                      {
+                        "token": "f0h0p83",
+                        "name": "back pain relief",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "osx47b1",
+                "name": "US_NonBrand_JG (262727835)",
+                "adgroups": [
+                  {
+                    "token": "g51nulf",
+                    "name": "Exact Match (262765077)",
+                    "creatives": [
+                      {
+                        "token": "2y61m33",
+                        "name": "exercise tracker",
+                        "kpi_values": [3, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "4kosi9i",
+                        "name": "lose belly fat",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "4wx30sm",
+                        "name": "sciatic pain relief",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "5wj0som",
+                        "name": "va video connect",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "601wkuo",
+                        "name": "exercise apps",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "8r16158",
+                        "name": "the flow app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "8ts6hzn",
+                        "name": "back workouts",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "az4pz79",
+                        "name": "synctuition meditation program",
+                        "kpi_values": [3, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "cazz6hu",
+                        "name": "abs and core",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "cl966lu",
+                        "name": "upright go",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "de4qg21",
+                        "name": "healthfit",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "f8tnxq8",
+                        "name": "tai chi",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "jkwqv6a",
+                        "name": "the back dr",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "luve7qm",
+                        "name": "teladoc",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "mnia8ck",
+                        "name": "niuna dieta mas",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "q3ukcds",
+                        "name": "7 minute workout free",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "r6h22wc",
+                        "name": "scoliosis",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "skon3sk",
+                        "name": "lower back pain exercises",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "szri6uy",
+                        "name": "mind cleanse",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "toy6n6k",
+                        "name": "hifit",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "u4dkmu0",
+                        "name": "ni una dieta más",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "xg13xod",
+                        "name": "30 day fitness challenge free",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "xw1nlri",
+                        "name": "medbridgego",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "zy5ketn",
+                        "name": "posture",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "pht79ai",
+                "name": "DE_Brand_JG (263021341)",
+                "adgroups": [
+                  {
+                    "token": "xulp3lq",
+                    "name": "Exact Match (262983120)",
+                    "creatives": [
+                      {
+                        "token": "rc80j6m",
+                        "name": "kaia gegen rückenschmerzen",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "vb58hic",
+                        "name": "kaia",
+                        "kpi_values": [2, 1, 0, 0, 1]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u5aut9b",
+                "name": "DE_NonBrand_JG (262922238)",
+                "adgroups": [
+                  {
+                    "token": "t1alznd",
+                    "name": "Exact Match (262982513)",
+                    "creatives": [
+                      {
+                        "token": "9mkftuk",
+                        "name": "fitness first",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "av6okt3",
+                        "name": "fitness app kostenlos",
+                        "kpi_values": [3, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "nv8ljgw",
+                        "name": "7 minuten training",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "s0va1mk",
+                        "name": "give me five!",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "xk5r48a",
+                        "name": "yoga easy",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "yyxnbh5",
+                        "name": "loox fitness planer",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u868v5i",
+                "name": "DK,FI,NL,NO,SE_Discovery_JG (285216188)",
+                "adgroups": [
+                  {
+                    "token": "6fpv3h2",
+                    "name": "Broad Match (285234741)",
+                    "creatives": [
+                      {
+                        "token": "j5a36in",
+                        "name": "mindbody",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "md623qy",
+                        "name": "kaia back pain",
+                        "kpi_values": [2, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "s7uhpi2",
+                        "name": "posture",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "xf6wffa",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Brand_JG (285237021)",
+                "adgroups": [
+                  {
+                    "token": "ps7hbaf",
+                    "name": "Exact Match (285228822)",
+                    "creatives": [
+                      {
+                        "token": "51dk50h",
+                        "name": "kaia",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "v9ebpae",
+                        "name": "kaia back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "zon3ebk",
+                "name": "US_Discovery (242933727)",
+                "adgroups": [
+                  {
+                    "token": "3fxz2ni",
+                    "name": "Search Match (242930998)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2019-05-02",
+        "networks": [
+          {
+            "token": "rvuz67b",
+            "name": "Apple Search Ads",
+            "campaigns": [
+              {
+                "token": "1wpjop5",
+                "name": "DK,FI,NL,NO,SE_NonBrand_JG (284941579)",
+                "adgroups": [
+                  {
+                    "token": "b9h1b6q",
+                    "name": "Exact Match (285143718)",
+                    "creatives": [
+                      {
+                        "token": "lqq6mnh",
+                        "name": "back pain relief exercises",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "2ec67a2",
+                "name": "GB,IE_NonBrand_JG (284979913)",
+                "adgroups": [
+                  {
+                    "token": "q0zp1lo",
+                    "name": "Exact Match (285227483)",
+                    "creatives": [
+                      {
+                        "token": "51dj0hk",
+                        "name": "chronic pain diary",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "a9imxsx",
+                        "name": "daily yoga",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "y24egsv",
+                        "name": "posture",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "48345fi",
+                "name": "US_Discovery_JG (262773151)",
+                "adgroups": [
+                  {
+                    "token": "8bau8z0",
+                    "name": "Search Match (262825521)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      }
+                    ]
+                  },
+                  {
+                    "token": "r7mjc40",
+                    "name": "Broad Match (262780160)",
+                    "creatives": [
+                      {
+                        "token": "4ml52km",
+                        "name": "chronic pain",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "bn1vph7",
+                        "name": "posture",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "dpow19d",
+                        "name": "kaia",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "dq47a4b",
+                        "name": "kaia fit",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "haog8oc",
+                        "name": "kaia health",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "p9ne60h",
+                        "name": "spine health",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "vh7y0t4",
+                        "name": "back pain relief exercises",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "vq5hdwz",
+                        "name": "kaia back pain",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "4qye3kh",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Discovery_JG (285152866)",
+                "adgroups": [
+                  {
+                    "token": "88p8em2",
+                    "name": "Broad Match (285235323)",
+                    "creatives": [
+                      {
+                        "token": "50dg0cw",
+                        "name": "mindbody",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "kwrg9qd",
+                        "name": "kaia health",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "wuxnjy4",
+                        "name": "kaia fit",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "51ihm9k",
+                "name": "DE_Discovery_JG (262931515)",
+                "adgroups": [
+                  {
+                    "token": "a03irhz",
+                    "name": "Search Match (262987553)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  },
+                  {
+                    "token": "p5vpuyz",
+                    "name": "Broad Match (262987552)",
+                    "creatives": [
+                      {
+                        "token": "2j9lefr",
+                        "name": "kaia health",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "69zss2i",
+                "name": "US_HighValue_JG (262806613)",
+                "adgroups": [
+                  {
+                    "token": "3zbk5o6",
+                    "name": "Exact Match (262770380)",
+                    "creatives": [
+                      {
+                        "token": "19llne9",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "9a74oax",
+                "name": "US_Brand_JG (262727832)",
+                "adgroups": [
+                  {
+                    "token": "ki66hsl",
+                    "name": "Exact Match (262765074)",
+                    "creatives": [
+                      {
+                        "token": "sj0f06c",
+                        "name": "kaia back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "z8uiwej",
+                        "name": "kaia app",
+                        "kpi_values": [2, 2, 1, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "fud0nks",
+                "name": "GB,IE_Discovery_JG (285152864)",
+                "adgroups": [
+                  {
+                    "token": "rb8e7yd",
+                    "name": "Broad Match (285227484)",
+                    "creatives": [
+                      {
+                        "token": "81ojzi6",
+                        "name": "yoga men",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "p4prsrc",
+                        "name": "back pain",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "osx47b1",
+                "name": "US_NonBrand_JG (262727835)",
+                "adgroups": [
+                  {
+                    "token": "g51nulf",
+                    "name": "Exact Match (262765077)",
+                    "creatives": [
+                      {
+                        "token": "2ctlajs",
+                        "name": "work out at home free",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "2y61m33",
+                        "name": "exercise tracker",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "56fmep5",
+                        "name": "dreammapper",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "601wkuo",
+                        "name": "exercise apps",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "7zvlzi8",
+                        "name": "quell relief",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "8r16158",
+                        "name": "the flow app",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "8vtgten",
+                        "name": "back doctor | pain relief",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "bichqg7",
+                        "name": "stretching exercises",
+                        "kpi_values": [2, 2, 1, 0, 0]
+                      },
+                      {
+                        "token": "d2icjyb",
+                        "name": "30 day fitness challenge",
+                        "kpi_values": [3, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "de4qg21",
+                        "name": "healthfit",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "f8tnxq8",
+                        "name": "tai chi",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "jkwqv6a",
+                        "name": "the back dr",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "mnia8ck",
+                        "name": "niuna dieta mas",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "noceqe6",
+                        "name": "pill reminder",
+                        "kpi_values": [2, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "q079usq",
+                        "name": "ra monitor",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "qfdb63g",
+                        "name": "crosby wellness center",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "qzxdb0w",
+                        "name": "chiropractic",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "r6h22wc",
+                        "name": "scoliosis",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "szri6uy",
+                        "name": "mind cleanse",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "tjw7m0g",
+                        "name": "sciatica",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "wltr36u",
+                        "name": "betterme: walking & weightloss",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "xagmjw2",
+                        "name": "tabata",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "xy4ylrs",
+                        "name": "the back doctor",
+                        "kpi_values": [9, 5, 0, 0, 0]
+                      },
+                      {
+                        "token": "zy5ketn",
+                        "name": "posture",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "pht79ai",
+                "name": "DE_Brand_JG (263021341)",
+                "adgroups": [
+                  {
+                    "token": "xulp3lq",
+                    "name": "Exact Match (262983120)",
+                    "creatives": [
+                      {
+                        "token": "rc80j6m",
+                        "name": "kaia gegen rückenschmerzen",
+                        "kpi_values": [3, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "vb58hic",
+                        "name": "kaia",
+                        "kpi_values": [3, 2, 0, 0, 1]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "qt33awh",
+                "name": "DK,FI,NL,NO,SE_Brand_JG (285071388)",
+                "adgroups": [
+                  {
+                    "token": "1amiemu",
+                    "name": "Exact Match (285177795)",
+                    "creatives": [
+                      {
+                        "token": "kfkt621",
+                        "name": "kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "tq90acr",
+                "name": "Back Pain Relief - Kaia - GB - Blackbox - 2019-05-02T04:51:35922 (295488485)",
+                "adgroups": [
+                  {
+                    "token": "4m0ph16",
+                    "name": "Normal Keywords 3634ebd5-d303-48b8-9a7b-2da8df55e43c (295428153)",
+                    "creatives": [
+                      {
+                        "token": "b8ykxy1",
+                        "name": "blood pressure monitor",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "qc4asze",
+                        "name": "systmonline",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "vq2yz0k",
+                        "name": "patient access",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u5aut9b",
+                "name": "DE_NonBrand_JG (262922238)",
+                "adgroups": [
+                  {
+                    "token": "t1alznd",
+                    "name": "Exact Match (262982513)",
+                    "creatives": [
+                      {
+                        "token": "3ffkowm",
+                        "name": "pilates - barbara becker",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "4ejxg02",
+                        "name": "flo",
+                        "kpi_values": [3, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "7anz74x",
+                        "name": "techniker krankenkasse",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "96cvk6h",
+                        "name": "runtastic results workout app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "chdww46",
+                        "name": "freeletics: workout & fitness",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "cj0bcas",
+                        "name": "mc fit",
+                        "kpi_values": [5, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "e7wnb11",
+                        "name": "das 5 minuten rückentraining",
+                        "kpi_values": [0, 0, 0, 0, 1]
+                      },
+                      {
+                        "token": "eh2vl6k",
+                        "name": "migräne app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "ft9gfi4",
+                        "name": "tabata",
+                        "kpi_values": [3, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "hayiqe0",
+                        "name": "running app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "hr7psks",
+                        "name": "bauch",
+                        "kpi_values": [5, 3, 0, 0, 0]
+                      },
+                      {
+                        "token": "i5qtgqh",
+                        "name": "yoga kostenlos",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "qj6mq8s",
+                        "name": "schrittzähler gratis iphone",
+                        "kpi_values": [6, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "s0va1mk",
+                        "name": "give me five!",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "srn10u3",
+                        "name": "health app apple",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "t90tbus",
+                        "name": "6 pack",
+                        "kpi_values": [3, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "tk7idz7",
+                        "name": "wirbelsäule intensiv",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "y1owurl",
+                        "name": "daily yoga",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "yqxmo5y",
+                        "name": "ausdauer",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "zrm6scq",
+                        "name": "kalorienzähler",
+                        "kpi_values": [9, 5, 0, 0, 0]
+                      },
+                      {
+                        "token": "zxwjk3u",
+                        "name": "wearhealth",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u868v5i",
+                "name": "DK,FI,NL,NO,SE_Discovery_JG (285216188)",
+                "adgroups": [
+                  {
+                    "token": "6fpv3h2",
+                    "name": "Broad Match (285234741)",
+                    "creatives": [
+                      {
+                        "token": "8nr6m82",
+                        "name": "osteoarthritis",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "xf6wffa",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Brand_JG (285237021)",
+                "adgroups": [
+                  {
+                    "token": "ps7hbaf",
+                    "name": "Exact Match (285228822)",
+                    "creatives": [
+                      {
+                        "token": "6y37r77",
+                        "name": "kaia health",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2019-05-03",
+        "networks": [
+          {
+            "token": "rvuz67b",
+            "name": "Apple Search Ads",
+            "campaigns": [
+              {
+                "token": "2ec67a2",
+                "name": "GB,IE_NonBrand_JG (284979913)",
+                "adgroups": [
+                  {
+                    "token": "q0zp1lo",
+                    "name": "Exact Match (285227483)",
+                    "creatives": [
+                      {
+                        "token": "3ho4jpl",
+                        "name": "health apps",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "48345fi",
+                "name": "US_Discovery_JG (262773151)",
+                "adgroups": [
+                  {
+                    "token": "8bau8z0",
+                    "name": "Search Match (262825521)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  },
+                  {
+                    "token": "r7mjc40",
+                    "name": "Broad Match (262780160)",
+                    "creatives": [
+                      {
+                        "token": "4bcgtyt",
+                        "name": "pain relief exercises",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "a41mfmn",
+                        "name": "back pain workout",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "dq47a4b",
+                        "name": "kaia fit",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "kc8hf1h",
+                        "name": "backpain relief exercise",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "omh0d45",
+                        "name": "muscle trigger points",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "p9fuasw",
+                        "name": "therapy excercises",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "vq5hdwz",
+                        "name": "kaia back pain",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "4qye3kh",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Discovery_JG (285152866)",
+                "adgroups": [
+                  {
+                    "token": "88p8em2",
+                    "name": "Broad Match (285235323)",
+                    "creatives": [
+                      {
+                        "token": "kwrg9qd",
+                        "name": "kaia health",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "51ihm9k",
+                "name": "DE_Discovery_JG (262931515)",
+                "adgroups": [
+                  {
+                    "token": "a03irhz",
+                    "name": "Search Match (262987553)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  },
+                  {
+                    "token": "p5vpuyz",
+                    "name": "Broad Match (262987552)",
+                    "creatives": [
+                      {
+                        "token": "2j9lefr",
+                        "name": "kaia health",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "9a74oax",
+                "name": "US_Brand_JG (262727832)",
+                "adgroups": [
+                  {
+                    "token": "ki66hsl",
+                    "name": "Exact Match (262765074)",
+                    "creatives": [
+                      {
+                        "token": "1l3hdsw",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "sj0f06c",
+                        "name": "kaia back pain",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "fud0nks",
+                "name": "GB,IE_Discovery_JG (285152864)",
+                "adgroups": [
+                  {
+                    "token": "rb8e7yd",
+                    "name": "Broad Match (285227484)",
+                    "creatives": [
+                      {
+                        "token": "81ojzi6",
+                        "name": "yoga men",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "zhbzdx0",
+                        "name": "lower back",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "hnju63a",
+                "name": "AT,CH_Discovery_JG (285877302)",
+                "adgroups": [
+                  {
+                    "token": "e01ze10",
+                    "name": "Broad Match (285677090)",
+                    "creatives": [
+                      {
+                        "token": "lr59gl6",
+                        "name": "kaia health",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "i10x7hr",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_NonBrand_JG (285237061)",
+                "adgroups": [
+                  {
+                    "token": "xm7vrip",
+                    "name": "Exact Match (285221928)",
+                    "creatives": [
+                      {
+                        "token": "f0h0p83",
+                        "name": "back pain relief",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "osx47b1",
+                "name": "US_NonBrand_JG (262727835)",
+                "adgroups": [
+                  {
+                    "token": "g51nulf",
+                    "name": "Exact Match (262765077)",
+                    "creatives": [
+                      {
+                        "token": "56fmep5",
+                        "name": "dreammapper",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "601wkuo",
+                        "name": "exercise apps",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "6zk4pm4",
+                        "name": "myair",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "8r16158",
+                        "name": "the flow app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "az4pz79",
+                        "name": "synctuition meditation program",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "ba9zvf8",
+                        "name": "migraine monitor",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "bichqg7",
+                        "name": "stretching exercises",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "cazz6hu",
+                        "name": "abs and core",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "cl966lu",
+                        "name": "upright go",
+                        "kpi_values": [2, 2, 1, 0, 0]
+                      },
+                      {
+                        "token": "de4qg21",
+                        "name": "healthfit",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "f8tnxq8",
+                        "name": "tai chi",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "fiep80k",
+                        "name": "impulse - brain training",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "fszi60m",
+                        "name": "ni una dieta mas",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "hbjn35z",
+                        "name": "kaia fit",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "hvg9ow0",
+                        "name": "at home workouts free",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "luve7qm",
+                        "name": "teladoc",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "qfdb63g",
+                        "name": "crosby wellness center",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "toy6n6k",
+                        "name": "hifit",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "xw1nlri",
+                        "name": "medbridgego",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "xy4ylrs",
+                        "name": "the back doctor",
+                        "kpi_values": [4, 3, 1, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "pht79ai",
+                "name": "DE_Brand_JG (263021341)",
+                "adgroups": [
+                  {
+                    "token": "xulp3lq",
+                    "name": "Exact Match (262983120)",
+                    "creatives": [
+                      {
+                        "token": "rc80j6m",
+                        "name": "kaia gegen rückenschmerzen",
+                        "kpi_values": [3, 3, 0, 0, 0]
+                      },
+                      {
+                        "token": "vb58hic",
+                        "name": "kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u5aut9b",
+                "name": "DE_NonBrand_JG (262922238)",
+                "adgroups": [
+                  {
+                    "token": "t1alznd",
+                    "name": "Exact Match (262982513)",
+                    "creatives": [
+                      {
+                        "token": "3007vyk",
+                        "name": "thenx",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "4mo5x3z",
+                        "name": "ekg app apple",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "5lfxmly",
+                        "name": "mcfit",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "5yicpf8",
+                        "name": "gesundheit",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "7fg6pe7",
+                        "name": "hantel training",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "96cvk6h",
+                        "name": "runtastic results workout app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "av6okt3",
+                        "name": "fitness app kostenlos",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "co81g2f",
+                        "name": "egym fitness app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "eh2vl6k",
+                        "name": "migräne app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "ejy4vt2",
+                        "name": "braun oral b",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "ft9gfi4",
+                        "name": "tabata",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "h3lcipz",
+                        "name": "results",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "hr7psks",
+                        "name": "bauch",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "i5qtgqh",
+                        "name": "yoga kostenlos",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "s0va1mk",
+                        "name": "give me five!",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "t90tbus",
+                        "name": "6 pack",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "tmpt43r",
+                        "name": "personal trainer",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "xhxbha8",
+                        "name": "meine tk",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "xwui0ih",
+                        "name": "health mate",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "yckpn7h",
+                        "name": "nike training club",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "zrm6scq",
+                        "name": "kalorienzähler",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u868v5i",
+                "name": "DK,FI,NL,NO,SE_Discovery_JG (285216188)",
+                "adgroups": [
+                  {
+                    "token": "6fpv3h2",
+                    "name": "Broad Match (285234741)",
+                    "creatives": [
+                      {
+                        "token": "fj1q7q3",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "s7uhpi2",
+                        "name": "posture",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "xf6wffa",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Brand_JG (285237021)",
+                "adgroups": [
+                  {
+                    "token": "ps7hbaf",
+                    "name": "Exact Match (285228822)",
+                    "creatives": [
+                      {
+                        "token": "51dk50h",
+                        "name": "kaia",
+                        "kpi_values": [4, 4, 1, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2019-05-04",
+        "networks": [
+          {
+            "token": "rvuz67b",
+            "name": "Apple Search Ads",
+            "campaigns": [
+              {
+                "token": "1wpjop5",
+                "name": "DK,FI,NL,NO,SE_NonBrand_JG (284941579)",
+                "adgroups": [
+                  {
+                    "token": "b9h1b6q",
+                    "name": "Exact Match (285143718)",
+                    "creatives": [
+                      {
+                        "token": "6575tau",
+                        "name": "back pain relief",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "2ec67a2",
+                "name": "GB,IE_NonBrand_JG (284979913)",
+                "adgroups": [
+                  {
+                    "token": "q0zp1lo",
+                    "name": "Exact Match (285227483)",
+                    "creatives": [
+                      {
+                        "token": "4as3409",
+                        "name": "yoga for beginners.",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "7v8vmr9",
+                        "name": "back",
+                        "kpi_values": [0, 0, 0, 1, 0]
+                      },
+                      {
+                        "token": "wp2nlaj",
+                        "name": "sciatica",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "48345fi",
+                "name": "US_Discovery_JG (262773151)",
+                "adgroups": [
+                  {
+                    "token": "r7mjc40",
+                    "name": "Broad Match (262780160)",
+                    "creatives": [
+                      {
+                        "token": "6ln6yz4",
+                        "name": "back pain",
+                        "kpi_values": [3, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "a41mfmn",
+                        "name": "back pain workout",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "bcag5qd",
+                        "name": "muscle pain",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "dpow19d",
+                        "name": "kaia",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "dq47a4b",
+                        "name": "kaia fit",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "haog8oc",
+                        "name": "kaia health",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "vh7y0t4",
+                        "name": "back pain relief exercises",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "4qye3kh",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Discovery_JG (285152866)",
+                "adgroups": [
+                  {
+                    "token": "88p8em2",
+                    "name": "Broad Match (285235323)",
+                    "creatives": [
+                      {
+                        "token": "50dg0cw",
+                        "name": "mindbody",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "51ihm9k",
+                "name": "DE_Discovery_JG (262931515)",
+                "adgroups": [
+                  {
+                    "token": "p5vpuyz",
+                    "name": "Broad Match (262987552)",
+                    "creatives": [
+                      {
+                        "token": "2j9lefr",
+                        "name": "kaia health",
+                        "kpi_values": [3, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "hi92nuf",
+                        "name": "rückenschule",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "vot4uhb",
+                        "name": "die 60 besten rückenübungen",
+                        "kpi_values": [3, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "7t6y2gw",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_HighValue_JG (285213586)",
+                "adgroups": [
+                  {
+                    "token": "ddr2cjz",
+                    "name": "Exact Match (285237361)",
+                    "creatives": [
+                      {
+                        "token": "tx1g80o",
+                        "name": "back pain",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "9a74oax",
+                "name": "US_Brand_JG (262727832)",
+                "adgroups": [
+                  {
+                    "token": "ki66hsl",
+                    "name": "Exact Match (262765074)",
+                    "creatives": [
+                      {
+                        "token": "1l3hdsw",
+                        "name": "kaia",
+                        "kpi_values": [3, 3, 1, 0, 0]
+                      },
+                      {
+                        "token": "sj0f06c",
+                        "name": "kaia back pain",
+                        "kpi_values": [0, 0, 0, 1, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "bs9w2d7",
+                "name": "GB,IE_Brand_JG (285216183)",
+                "adgroups": [
+                  {
+                    "token": "aotirz9",
+                    "name": "Exact Match (285211390)",
+                    "creatives": [
+                      {
+                        "token": "udkke3k",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "fud0nks",
+                "name": "GB,IE_Discovery_JG (285152864)",
+                "adgroups": [
+                  {
+                    "token": "rb8e7yd",
+                    "name": "Broad Match (285227484)",
+                    "creatives": [
+                      {
+                        "token": "p4prsrc",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "zhbzdx0",
+                        "name": "lower back",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "hnju63a",
+                "name": "AT,CH_Discovery_JG (285877302)",
+                "adgroups": [
+                  {
+                    "token": "e01ze10",
+                    "name": "Broad Match (285677090)",
+                    "creatives": [
+                      {
+                        "token": "c8f5oya",
+                        "name": "rücken",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "lr59gl6",
+                        "name": "kaia health",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "i10x7hr",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_NonBrand_JG (285237061)",
+                "adgroups": [
+                  {
+                    "token": "xm7vrip",
+                    "name": "Exact Match (285221928)",
+                    "creatives": [
+                      {
+                        "token": "4usja83",
+                        "name": "back pain relief exercises",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "k9q940b",
+                "name": "Kaia gegen Rckenschmerzen - DE - Blackbox - 2019-05-02T04:51:35888 (295488486)",
+                "adgroups": [
+                  {
+                    "token": "tbs9s26",
+                    "name": "Top Keywords f98dfaba-b3d0-4ce0-8bfd-4cec13c91885 (295428169)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "osx47b1",
+                "name": "US_NonBrand_JG (262727835)",
+                "adgroups": [
+                  {
+                    "token": "g51nulf",
+                    "name": "Exact Match (262765077)",
+                    "creatives": [
+                      {
+                        "token": "3v8vyau",
+                        "name": "back exercise",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "56fmep5",
+                        "name": "dreammapper",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "7hvjnb5",
+                        "name": "veryfit for heart rate",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "fszi60m",
+                        "name": "ni una dieta mas",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "q079usq",
+                        "name": "ra monitor",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "q3ukcds",
+                        "name": "7 minute workout free",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "q99rj66",
+                        "name": "yoga free",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "r6h22wc",
+                        "name": "scoliosis",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "skon3sk",
+                        "name": "lower back pain exercises",
+                        "kpi_values": [0, 0, 0, 1, 0]
+                      },
+                      {
+                        "token": "u4dkmu0",
+                        "name": "ni una dieta más",
+                        "kpi_values": [3, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "xw1nlri",
+                        "name": "medbridgego",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "zy5ketn",
+                        "name": "posture",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "pht79ai",
+                "name": "DE_Brand_JG (263021341)",
+                "adgroups": [
+                  {
+                    "token": "xulp3lq",
+                    "name": "Exact Match (262983120)",
+                    "creatives": [
+                      {
+                        "token": "rc80j6m",
+                        "name": "kaia gegen rückenschmerzen",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "vb58hic",
+                        "name": "kaia",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "qt33awh",
+                "name": "DK,FI,NL,NO,SE_Brand_JG (285071388)",
+                "adgroups": [
+                  {
+                    "token": "1amiemu",
+                    "name": "Exact Match (285177795)",
+                    "creatives": [
+                      {
+                        "token": "kfkt621",
+                        "name": "kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "rv32ous",
+                "name": "Back Pain Relief - Kaia - US - Blackbox - 2019-05-02T04:51:35895 (295363614)",
+                "adgroups": [
+                  {
+                    "token": "ufwhp18",
+                    "name": "Top Keywords 7c9f0c0a-d980-47ca-b02e-b4cf58168f59 (295428053)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "tq90acr",
+                "name": "Back Pain Relief - Kaia - GB - Blackbox - 2019-05-02T04:51:35922 (295488485)",
+                "adgroups": [
+                  {
+                    "token": "4m0ph16",
+                    "name": "Normal Keywords 3634ebd5-d303-48b8-9a7b-2da8df55e43c (295428153)",
+                    "creatives": [
+                      {
+                        "token": "7jkskny",
+                        "name": "st john ambulance first aid",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "y15xi9v",
+                        "name": "health coach",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u5aut9b",
+                "name": "DE_NonBrand_JG (262922238)",
+                "adgroups": [
+                  {
+                    "token": "t1alznd",
+                    "name": "Exact Match (262982513)",
+                    "creatives": [
+                      {
+                        "token": "208wqyo",
+                        "name": "bauch beine po",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "4ejxg02",
+                        "name": "flo",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "4mo5x3z",
+                        "name": "ekg app apple",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "60y9q5n",
+                        "name": "ekg",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "co81g2f",
+                        "name": "egym fitness app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "ejy4vt2",
+                        "name": "braun oral b",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "i5qtgqh",
+                        "name": "yoga kostenlos",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "oq13lej",
+                        "name": "sit ups",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "qs0va97",
+                        "name": "ada",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "tmpt43r",
+                        "name": "personal trainer",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "vhx6gjz",
+                        "name": "gesundheit und fitness",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "xk5r48a",
+                        "name": "yoga easy",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "y1owurl",
+                        "name": "daily yoga",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u868v5i",
+                "name": "DK,FI,NL,NO,SE_Discovery_JG (285216188)",
+                "adgroups": [
+                  {
+                    "token": "6fpv3h2",
+                    "name": "Broad Match (285234741)",
+                    "creatives": [
+                      {
+                        "token": "8nr6m82",
+                        "name": "osteoarthritis",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "j5a36in",
+                        "name": "mindbody",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "xf6wffa",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Brand_JG (285237021)",
+                "adgroups": [
+                  {
+                    "token": "ps7hbaf",
+                    "name": "Exact Match (285228822)",
+                    "creatives": [
+                      {
+                        "token": "51dk50h",
+                        "name": "kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "v9ebpae",
+                        "name": "kaia back pain",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2019-05-05",
+        "networks": [
+          {
+            "token": "rvuz67b",
+            "name": "Apple Search Ads",
+            "campaigns": [
+              {
+                "token": "2ec67a2",
+                "name": "GB,IE_NonBrand_JG (284979913)",
+                "adgroups": [
+                  {
+                    "token": "q0zp1lo",
+                    "name": "Exact Match (285227483)",
+                    "creatives": [
+                      {
+                        "token": "3ho4jpl",
+                        "name": "health apps",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "64dw1d6",
+                        "name": "healthfit",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "8cho5jp",
+                        "name": "flexibility",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "bp0al6u",
+                        "name": "back strengthening exercises - kill your back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "tthit36",
+                        "name": "leg workouts",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "3jcqoyu",
+                "name": "GB,IE_HighValue_JG (285192131)",
+                "adgroups": [
+                  {
+                    "token": "uzjuyi8",
+                    "name": "Exact Match (285072214)",
+                    "creatives": [
+                      {
+                        "token": "vlyvyp7",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "3q1tgq7",
+                "name": "AT,CH_Brand_JG (285580720)",
+                "adgroups": [
+                  {
+                    "token": "fw645zk",
+                    "name": "Exact Match (285877283)",
+                    "creatives": [
+                      {
+                        "token": "asmi9bv",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "48345fi",
+                "name": "US_Discovery_JG (262773151)",
+                "adgroups": [
+                  {
+                    "token": "8bau8z0",
+                    "name": "Search Match (262825521)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  },
+                  {
+                    "token": "r7mjc40",
+                    "name": "Broad Match (262780160)",
+                    "creatives": [
+                      {
+                        "token": "84qss3j",
+                        "name": "pain sciatica spine",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "bn1vph7",
+                        "name": "posture",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "dpow19d",
+                        "name": "kaia",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "kzprlk7",
+                        "name": "relief excercise",
+                        "kpi_values": [0, 0, 0, 1, 0]
+                      },
+                      {
+                        "token": "vq5hdwz",
+                        "name": "kaia back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "4qye3kh",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Discovery_JG (285152866)",
+                "adgroups": [
+                  {
+                    "token": "88p8em2",
+                    "name": "Broad Match (285235323)",
+                    "creatives": [
+                      {
+                        "token": "50dg0cw",
+                        "name": "mindbody",
+                        "kpi_values": [2, 2, 1, 0, 0]
+                      },
+                      {
+                        "token": "cxw82cl",
+                        "name": "yoga for men",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "htly5q1",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "kwrg9qd",
+                        "name": "kaia health",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "l428iss",
+                        "name": "muscle building",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "pqigv9r",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "51ihm9k",
+                "name": "DE_Discovery_JG (262931515)",
+                "adgroups": [
+                  {
+                    "token": "a03irhz",
+                    "name": "Search Match (262987553)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  },
+                  {
+                    "token": "p5vpuyz",
+                    "name": "Broad Match (262987552)",
+                    "creatives": [
+                      {
+                        "token": "2j9lefr",
+                        "name": "kaia health",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "6c4oifx",
+                "name": "DK,FI,NL,NO,SE_HighValue_JG (285028739)",
+                "adgroups": [
+                  {
+                    "token": "ab2d7zx",
+                    "name": "Exact Match (285184035)",
+                    "creatives": [
+                      {
+                        "token": "a8re0j6",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "9a74oax",
+                "name": "US_Brand_JG (262727832)",
+                "adgroups": [
+                  {
+                    "token": "ki66hsl",
+                    "name": "Exact Match (262765074)",
+                    "creatives": [
+                      {
+                        "token": "sj0f06c",
+                        "name": "kaia back pain",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "hnju63a",
+                "name": "AT,CH_Discovery_JG (285877302)",
+                "adgroups": [
+                  {
+                    "token": "e01ze10",
+                    "name": "Broad Match (285677090)",
+                    "creatives": [
+                      {
+                        "token": "lr59gl6",
+                        "name": "kaia health",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "i10x7hr",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_NonBrand_JG (285237061)",
+                "adgroups": [
+                  {
+                    "token": "xm7vrip",
+                    "name": "Exact Match (285221928)",
+                    "creatives": [
+                      {
+                        "token": "f0h0p83",
+                        "name": "back pain relief",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "osx47b1",
+                "name": "US_NonBrand_JG (262727835)",
+                "adgroups": [
+                  {
+                    "token": "g51nulf",
+                    "name": "Exact Match (262765077)",
+                    "creatives": [
+                      {
+                        "token": "3v8vyau",
+                        "name": "back exercise",
+                        "kpi_values": [0, 0, 0, 1, 0]
+                      },
+                      {
+                        "token": "4l59h3x",
+                        "name": "orientate - pain management",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "cl966lu",
+                        "name": "upright go",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "d2icjyb",
+                        "name": "30 day fitness challenge",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "fszi60m",
+                        "name": "ni una dieta mas",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "hbjn35z",
+                        "name": "kaia fit",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "u4dkmu0",
+                        "name": "ni una dieta más",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "xy4ylrs",
+                        "name": "the back doctor",
+                        "kpi_values": [2, 2, 1, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "pht79ai",
+                "name": "DE_Brand_JG (263021341)",
+                "adgroups": [
+                  {
+                    "token": "xulp3lq",
+                    "name": "Exact Match (262983120)",
+                    "creatives": [
+                      {
+                        "token": "3jkbd6k",
+                        "name": "kaia app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "rc80j6m",
+                        "name": "kaia gegen rückenschmerzen",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "vb58hic",
+                        "name": "kaia",
+                        "kpi_values": [4, 2, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u5aut9b",
+                "name": "DE_NonBrand_JG (262922238)",
+                "adgroups": [
+                  {
+                    "token": "t1alznd",
+                    "name": "Exact Match (262982513)",
+                    "creatives": [
+                      {
+                        "token": "av6okt3",
+                        "name": "fitness app kostenlos",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "fk9015g",
+                        "name": "bauerfeind therapie-app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "ft9gfi4",
+                        "name": "tabata",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "hr7psks",
+                        "name": "bauch",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "oq13lej",
+                        "name": "sit ups",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "tmpt43r",
+                        "name": "personal trainer",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "zgq58yt",
+                        "name": "my neck - workout für den nacken",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "zxl2k2x",
+                        "name": "planke - 4 minuten",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u868v5i",
+                "name": "DK,FI,NL,NO,SE_Discovery_JG (285216188)",
+                "adgroups": [
+                  {
+                    "token": "6fpv3h2",
+                    "name": "Broad Match (285234741)",
+                    "creatives": [
+                      {
+                        "token": "c0u183a",
+                        "name": "muscle building",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "j5a36in",
+                        "name": "mindbody",
+                        "kpi_values": [3, 3, 1, 0, 0]
+                      },
+                      {
+                        "token": "md623qy",
+                        "name": "kaia back pain",
+                        "kpi_values": [0, 1, 1, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "xf6wffa",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Brand_JG (285237021)",
+                "adgroups": [
+                  {
+                    "token": "ps7hbaf",
+                    "name": "Exact Match (285228822)",
+                    "creatives": [
+                      {
+                        "token": "51dk50h",
+                        "name": "kaia",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2019-05-06",
+        "networks": [
+          {
+            "token": "rvuz67b",
+            "name": "Apple Search Ads",
+            "campaigns": [
+              {
+                "token": "2ec67a2",
+                "name": "GB,IE_NonBrand_JG (284979913)",
+                "adgroups": [
+                  {
+                    "token": "q0zp1lo",
+                    "name": "Exact Match (285227483)",
+                    "creatives": [
+                      {
+                        "token": "64dw1d6",
+                        "name": "healthfit",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "7ddyc91",
+                        "name": "pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "k1bkx76",
+                        "name": "yoga",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "lugv6dp",
+                        "name": "back exercises",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "vw5qqjg",
+                        "name": "back exercises hd for ipad",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "z93y2j6",
+                        "name": "workouts",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "3q1tgq7",
+                "name": "AT,CH_Brand_JG (285580720)",
+                "adgroups": [
+                  {
+                    "token": "fw645zk",
+                    "name": "Exact Match (285877283)",
+                    "creatives": [
+                      {
+                        "token": "asmi9bv",
+                        "name": "kaia",
+                        "kpi_values": [2, 2, 1, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "48345fi",
+                "name": "US_Discovery_JG (262773151)",
+                "adgroups": [
+                  {
+                    "token": "r7mjc40",
+                    "name": "Broad Match (262780160)",
+                    "creatives": [
+                      {
+                        "token": "3w9ocpc",
+                        "name": "lower back pain & back pain treatment",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "dpow19d",
+                        "name": "kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "haog8oc",
+                        "name": "kaia health",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "4qye3kh",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Discovery_JG (285152866)",
+                "adgroups": [
+                  {
+                    "token": "88p8em2",
+                    "name": "Broad Match (285235323)",
+                    "creatives": [
+                      {
+                        "token": "cxw82cl",
+                        "name": "yoga for men",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "kwrg9qd",
+                        "name": "kaia health",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "pqigv9r",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "51ihm9k",
+                "name": "DE_Discovery_JG (262931515)",
+                "adgroups": [
+                  {
+                    "token": "a03irhz",
+                    "name": "Search Match (262987553)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      }
+                    ]
+                  },
+                  {
+                    "token": "p5vpuyz",
+                    "name": "Broad Match (262987552)",
+                    "creatives": [
+                      {
+                        "token": "2j9lefr",
+                        "name": "kaia health",
+                        "kpi_values": [2, 0, 0, 0, 1]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "69zss2i",
+                "name": "US_HighValue_JG (262806613)",
+                "adgroups": [
+                  {
+                    "token": "3zbk5o6",
+                    "name": "Exact Match (262770380)",
+                    "creatives": [
+                      {
+                        "token": "19llne9",
+                        "name": "back pain",
+                        "kpi_values": [0, 0, 0, 1, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "9a74oax",
+                "name": "US_Brand_JG (262727832)",
+                "adgroups": [
+                  {
+                    "token": "ki66hsl",
+                    "name": "Exact Match (262765074)",
+                    "creatives": [
+                      {
+                        "token": "1l3hdsw",
+                        "name": "kaia",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "sj0f06c",
+                        "name": "kaia back pain",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "bs9w2d7",
+                "name": "GB,IE_Brand_JG (285216183)",
+                "adgroups": [
+                  {
+                    "token": "aotirz9",
+                    "name": "Exact Match (285211390)",
+                    "creatives": [
+                      {
+                        "token": "udkke3k",
+                        "name": "kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "fud0nks",
+                "name": "GB,IE_Discovery_JG (285152864)",
+                "adgroups": [
+                  {
+                    "token": "rb8e7yd",
+                    "name": "Broad Match (285227484)",
+                    "creatives": [
+                      {
+                        "token": "81ojzi6",
+                        "name": "yoga men",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "s37hg9h",
+                        "name": "back pain relief",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "x61e8t1",
+                        "name": "muscle building",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "osx47b1",
+                "name": "US_NonBrand_JG (262727835)",
+                "adgroups": [
+                  {
+                    "token": "g51nulf",
+                    "name": "Exact Match (262765077)",
+                    "creatives": [
+                      {
+                        "token": "4wx30sm",
+                        "name": "sciatic pain relief",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "8oi0bvf",
+                        "name": "back doctor",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "az4pz79",
+                        "name": "synctuition meditation program",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "hvg9ow0",
+                        "name": "at home workouts free",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "inmfn0t",
+                        "name": "backache",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "qbqu3v4",
+                        "name": "lower back exercises",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "skxi0aj",
+                        "name": "gymstreak",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "zy5ketn",
+                        "name": "posture",
+                        "kpi_values": [0, 0, 0, 1, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "pht79ai",
+                "name": "DE_Brand_JG (263021341)",
+                "adgroups": [
+                  {
+                    "token": "xulp3lq",
+                    "name": "Exact Match (262983120)",
+                    "creatives": [
+                      {
+                        "token": "3jkbd6k",
+                        "name": "kaia app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "rc80j6m",
+                        "name": "kaia gegen rückenschmerzen",
+                        "kpi_values": [3, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "vb58hic",
+                        "name": "kaia",
+                        "kpi_values": [3, 2, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "qt33awh",
+                "name": "DK,FI,NL,NO,SE_Brand_JG (285071388)",
+                "adgroups": [
+                  {
+                    "token": "1amiemu",
+                    "name": "Exact Match (285177795)",
+                    "creatives": [
+                      {
+                        "token": "kfkt621",
+                        "name": "kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "tq90acr",
+                "name": "Back Pain Relief - Kaia - GB - Blackbox - 2019-05-02T04:51:35922 (295488485)",
+                "adgroups": [
+                  {
+                    "token": "4m0ph16",
+                    "name": "Normal Keywords 3634ebd5-d303-48b8-9a7b-2da8df55e43c (295428153)",
+                    "creatives": [
+                      {
+                        "token": "7jt4tb9",
+                        "name": "veryfit for heart rate",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "mlin0j5",
+                        "name": "heart rate monitor free",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u5aut9b",
+                "name": "DE_NonBrand_JG (262922238)",
+                "adgroups": [
+                  {
+                    "token": "t1alznd",
+                    "name": "Exact Match (262982513)",
+                    "creatives": [
+                      {
+                        "token": "cv348tu",
+                        "name": "cara",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "fk9015g",
+                        "name": "bauerfeind therapie-app",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u868v5i",
+                "name": "DK,FI,NL,NO,SE_Discovery_JG (285216188)",
+                "adgroups": [
+                  {
+                    "token": "6fpv3h2",
+                    "name": "Broad Match (285234741)",
+                    "creatives": [
+                      {
+                        "token": "8nr6m82",
+                        "name": "osteoarthritis",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "fj1q7q3",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "xf6wffa",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Brand_JG (285237021)",
+                "adgroups": [
+                  {
+                    "token": "ps7hbaf",
+                    "name": "Exact Match (285228822)",
+                    "creatives": [
+                      {
+                        "token": "51dk50h",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2019-05-07",
+        "networks": [
+          {
+            "token": "rvuz67b",
+            "name": "Apple Search Ads",
+            "campaigns": [
+              {
+                "token": "2ec67a2",
+                "name": "GB,IE_NonBrand_JG (284979913)",
+                "adgroups": [
+                  {
+                    "token": "q0zp1lo",
+                    "name": "Exact Match (285227483)",
+                    "creatives": [
+                      {
+                        "token": "57fqq58",
+                        "name": "physiapp",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "kke9co1",
+                        "name": "lower back pain exercises",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "xvy1n9q",
+                        "name": "emdr",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "3jcqoyu",
+                "name": "GB,IE_HighValue_JG (285192131)",
+                "adgroups": [
+                  {
+                    "token": "uzjuyi8",
+                    "name": "Exact Match (285072214)",
+                    "creatives": [
+                      {
+                        "token": "vlyvyp7",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "48345fi",
+                "name": "US_Discovery_JG (262773151)",
+                "adgroups": [
+                  {
+                    "token": "r7mjc40",
+                    "name": "Broad Match (262780160)",
+                    "creatives": [
+                      {
+                        "token": "6ln6yz4",
+                        "name": "back pain",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "dpow19d",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "haog8oc",
+                        "name": "kaia health",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "vq5hdwz",
+                        "name": "kaia back pain",
+                        "kpi_values": [1, 1, 0, 1, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "4qye3kh",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Discovery_JG (285152866)",
+                "adgroups": [
+                  {
+                    "token": "88p8em2",
+                    "name": "Broad Match (285235323)",
+                    "creatives": [
+                      {
+                        "token": "htly5q1",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "pqigv9r",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "51ihm9k",
+                "name": "DE_Discovery_JG (262931515)",
+                "adgroups": [
+                  {
+                    "token": "a03irhz",
+                    "name": "Search Match (262987553)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  },
+                  {
+                    "token": "p5vpuyz",
+                    "name": "Broad Match (262987552)",
+                    "creatives": [
+                      {
+                        "token": "2j9lefr",
+                        "name": "kaia health",
+                        "kpi_values": [3, 3, 0, 0, 0]
+                      },
+                      {
+                        "token": "o5b65gy",
+                        "name": "pain",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "7t6y2gw",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_HighValue_JG (285213586)",
+                "adgroups": [
+                  {
+                    "token": "ddr2cjz",
+                    "name": "Exact Match (285237361)",
+                    "creatives": [
+                      {
+                        "token": "tx1g80o",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "9a74oax",
+                "name": "US_Brand_JG (262727832)",
+                "adgroups": [
+                  {
+                    "token": "ki66hsl",
+                    "name": "Exact Match (262765074)",
+                    "creatives": [
+                      {
+                        "token": "1l3hdsw",
+                        "name": "kaia",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      },
+                      {
+                        "token": "sj0f06c",
+                        "name": "kaia back pain",
+                        "kpi_values": [3, 3, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "fud0nks",
+                "name": "GB,IE_Discovery_JG (285152864)",
+                "adgroups": [
+                  {
+                    "token": "rb8e7yd",
+                    "name": "Broad Match (285227484)",
+                    "creatives": [
+                      {
+                        "token": "hg4hpos",
+                        "name": "sciatica",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "uqa3lb9",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "hnju63a",
+                "name": "AT,CH_Discovery_JG (285877302)",
+                "adgroups": [
+                  {
+                    "token": "e01ze10",
+                    "name": "Broad Match (285677090)",
+                    "creatives": [
+                      {
+                        "token": "lr59gl6",
+                        "name": "kaia health",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "vwlw1rl",
+                        "name": "rückenschule",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "jxd3n0t",
+                "name": "DE_Discovery (254454940)",
+                "adgroups": [
+                  {
+                    "token": "uy3pehf",
+                    "name": "Broad Match (254494537)",
+                    "creatives": [
+                      {
+                        "token": "tw9jb0s",
+                        "name": "rückenschule",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "osx47b1",
+                "name": "US_NonBrand_JG (262727835)",
+                "adgroups": [
+                  {
+                    "token": "g51nulf",
+                    "name": "Exact Match (262765077)",
+                    "creatives": [
+                      {
+                        "token": "hv0zegg",
+                        "name": "back exercises hd for ipad",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "qfdb63g",
+                        "name": "crosby wellness center",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "tjw7m0g",
+                        "name": "sciatica",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "xw1nlri",
+                        "name": "medbridgego",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "pht79ai",
+                "name": "DE_Brand_JG (263021341)",
+                "adgroups": [
+                  {
+                    "token": "xulp3lq",
+                    "name": "Exact Match (262983120)",
+                    "creatives": [
+                      {
+                        "token": "rc80j6m",
+                        "name": "kaia gegen rückenschmerzen",
+                        "kpi_values": [9, 5, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "qt33awh",
+                "name": "DK,FI,NL,NO,SE_Brand_JG (285071388)",
+                "adgroups": [
+                  {
+                    "token": "1amiemu",
+                    "name": "Exact Match (285177795)",
+                    "creatives": [
+                      {
+                        "token": "kfkt621",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u5aut9b",
+                "name": "DE_NonBrand_JG (262922238)",
+                "adgroups": [
+                  {
+                    "token": "t1alznd",
+                    "name": "Exact Match (262982513)",
+                    "creatives": [
+                      {
+                        "token": "96cvk6h",
+                        "name": "runtastic results workout app",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "fk9015g",
+                        "name": "bauerfeind therapie-app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "oq13lej",
+                        "name": "sit ups",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "s0va1mk",
+                        "name": "give me five!",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u868v5i",
+                "name": "DK,FI,NL,NO,SE_Discovery_JG (285216188)",
+                "adgroups": [
+                  {
+                    "token": "6fpv3h2",
+                    "name": "Broad Match (285234741)",
+                    "creatives": [
+                      {
+                        "token": "8nr6m82",
+                        "name": "osteoarthritis",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "fj1q7q3",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "j5a36in",
+                        "name": "mindbody",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "xf6wffa",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Brand_JG (285237021)",
+                "adgroups": [
+                  {
+                    "token": "ps7hbaf",
+                    "name": "Exact Match (285228822)",
+                    "creatives": [
+                      {
+                        "token": "51dk50h",
+                        "name": "kaia",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "62j4w20",
+                        "name": "kaia app",
+                        "kpi_values": [1, 1, 1, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2019-05-08",
+        "networks": [
+          {
+            "token": "rvuz67b",
+            "name": "Apple Search Ads",
+            "campaigns": [
+              {
+                "token": "2ec67a2",
+                "name": "GB,IE_NonBrand_JG (284979913)",
+                "adgroups": [
+                  {
+                    "token": "q0zp1lo",
+                    "name": "Exact Match (285227483)",
+                    "creatives": [
+                      {
+                        "token": "4as3409",
+                        "name": "yoga for beginners.",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "48345fi",
+                "name": "US_Discovery_JG (262773151)",
+                "adgroups": [
+                  {
+                    "token": "r7mjc40",
+                    "name": "Broad Match (262780160)",
+                    "creatives": [
+                      {
+                        "token": "3w9ocpc",
+                        "name": "lower back pain & back pain treatment",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "bn1vph7",
+                        "name": "posture",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "dpow19d",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "dq47a4b",
+                        "name": "kaia fit",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "haog8oc",
+                        "name": "kaia health",
+                        "kpi_values": [0, 0, 0, 1, 0]
+                      },
+                      {
+                        "token": "imvxw90",
+                        "name": "chronic pain tracker",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "p9ne60h",
+                        "name": "spine health",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "4qye3kh",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Discovery_JG (285152866)",
+                "adgroups": [
+                  {
+                    "token": "88p8em2",
+                    "name": "Broad Match (285235323)",
+                    "creatives": [
+                      {
+                        "token": "50dg0cw",
+                        "name": "mindbody",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "kwrg9qd",
+                        "name": "kaia health",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "pqigv9r",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "51ihm9k",
+                "name": "DE_Discovery_JG (262931515)",
+                "adgroups": [
+                  {
+                    "token": "a03irhz",
+                    "name": "Search Match (262987553)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "7t6y2gw",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_HighValue_JG (285213586)",
+                "adgroups": [
+                  {
+                    "token": "ddr2cjz",
+                    "name": "Exact Match (285237361)",
+                    "creatives": [
+                      {
+                        "token": "tx1g80o",
+                        "name": "back pain",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "9a74oax",
+                "name": "US_Brand_JG (262727832)",
+                "adgroups": [
+                  {
+                    "token": "ki66hsl",
+                    "name": "Exact Match (262765074)",
+                    "creatives": [
+                      {
+                        "token": "1l3hdsw",
+                        "name": "kaia",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "sj0f06c",
+                        "name": "kaia back pain",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "fud0nks",
+                "name": "GB,IE_Discovery_JG (285152864)",
+                "adgroups": [
+                  {
+                    "token": "rb8e7yd",
+                    "name": "Broad Match (285227484)",
+                    "creatives": [
+                      {
+                        "token": "efsc9j8",
+                        "name": "back exercises",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "fn260t0",
+                        "name": "chronic pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "p4prsrc",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "soo1g78",
+                        "name": "back pain exercise",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "uqa3lb9",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [0, 2, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "i10x7hr",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_NonBrand_JG (285237061)",
+                "adgroups": [
+                  {
+                    "token": "xm7vrip",
+                    "name": "Exact Match (285221928)",
+                    "creatives": [
+                      {
+                        "token": "f0h0p83",
+                        "name": "back pain relief",
+                        "kpi_values": [0, 0, 0, 1, 0]
+                      },
+                      {
+                        "token": "l011f2l",
+                        "name": "back exercise",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "osx47b1",
+                "name": "US_NonBrand_JG (262727835)",
+                "adgroups": [
+                  {
+                    "token": "g51nulf",
+                    "name": "Exact Match (262765077)",
+                    "creatives": [
+                      {
+                        "token": "bichqg7",
+                        "name": "stretching exercises",
+                        "kpi_values": [0, 0, 0, 1, 0]
+                      },
+                      {
+                        "token": "cl966lu",
+                        "name": "upright go",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "fiep80k",
+                        "name": "impulse - brain training",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "hbjn35z",
+                        "name": "kaia fit",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "u4dkmu0",
+                        "name": "ni una dieta más",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "xy4ylrs",
+                        "name": "the back doctor",
+                        "kpi_values": [4, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "zy5ketn",
+                        "name": "posture",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "pht79ai",
+                "name": "DE_Brand_JG (263021341)",
+                "adgroups": [
+                  {
+                    "token": "xulp3lq",
+                    "name": "Exact Match (262983120)",
+                    "creatives": [
+                      {
+                        "token": "rc80j6m",
+                        "name": "kaia gegen rückenschmerzen",
+                        "kpi_values": [1, 2, 0, 0, 0]
+                      },
+                      {
+                        "token": "vb58hic",
+                        "name": "kaia",
+                        "kpi_values": [2, 2, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u5aut9b",
+                "name": "DE_NonBrand_JG (262922238)",
+                "adgroups": [
+                  {
+                    "token": "t1alznd",
+                    "name": "Exact Match (262982513)",
+                    "creatives": [
+                      {
+                        "token": "zlukmj",
+                        "name": "go4health – gesund leben",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "208wqyo",
+                        "name": "bauch beine po",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "7anz74x",
+                        "name": "techniker krankenkasse",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "ejy4vt2",
+                        "name": "braun oral b",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "fk9015g",
+                        "name": "bauerfeind therapie-app",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "oq13lej",
+                        "name": "sit ups",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u868v5i",
+                "name": "DK,FI,NL,NO,SE_Discovery_JG (285216188)",
+                "adgroups": [
+                  {
+                    "token": "6fpv3h2",
+                    "name": "Broad Match (285234741)",
+                    "creatives": [
+                      {
+                        "token": "8nr6m82",
+                        "name": "osteoarthritis",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "fj1q7q3",
+                        "name": "back pain relief - kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "j5a36in",
+                        "name": "mindbody",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "xf6wffa",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Brand_JG (285237021)",
+                "adgroups": [
+                  {
+                    "token": "ps7hbaf",
+                    "name": "Exact Match (285228822)",
+                    "creatives": [
+                      {
+                        "token": "51dk50h",
+                        "name": "kaia",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2019-05-09",
+        "networks": [
+          {
+            "token": "rvuz67b",
+            "name": "Apple Search Ads",
+            "campaigns": [
+              {
+                "token": "1wpjop5",
+                "name": "DK,FI,NL,NO,SE_NonBrand_JG (284941579)",
+                "adgroups": [
+                  {
+                    "token": "b9h1b6q",
+                    "name": "Exact Match (285143718)",
+                    "creatives": [
+                      {
+                        "token": "fk5atmv",
+                        "name": "workout for women: fitness app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "z354bei",
+                        "name": "joint academy",
+                        "kpi_values": [2, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "48345fi",
+                "name": "US_Discovery_JG (262773151)",
+                "adgroups": [
+                  {
+                    "token": "8bau8z0",
+                    "name": "Search Match (262825521)",
+                    "creatives": [
+                      {
+                        "token": "0",
+                        "name": "unknown",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  },
+                  {
+                    "token": "r7mjc40",
+                    "name": "Broad Match (262780160)",
+                    "creatives": [
+                      {
+                        "token": "dpow19d",
+                        "name": "kaia",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "vq5hdwz",
+                        "name": "kaia back pain",
+                        "kpi_values": [0, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "4qye3kh",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Discovery_JG (285152866)",
+                "adgroups": [
+                  {
+                    "token": "88p8em2",
+                    "name": "Broad Match (285235323)",
+                    "creatives": [
+                      {
+                        "token": "kwrg9qd",
+                        "name": "kaia health",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "l428iss",
+                        "name": "muscle building",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "51ihm9k",
+                "name": "DE_Discovery_JG (262931515)",
+                "adgroups": [
+                  {
+                    "token": "p5vpuyz",
+                    "name": "Broad Match (262987552)",
+                    "creatives": [
+                      {
+                        "token": "2j9lefr",
+                        "name": "kaia health",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "7t6y2gw",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_HighValue_JG (285213586)",
+                "adgroups": [
+                  {
+                    "token": "ddr2cjz",
+                    "name": "Exact Match (285237361)",
+                    "creatives": [
+                      {
+                        "token": "tx1g80o",
+                        "name": "back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "9a74oax",
+                "name": "US_Brand_JG (262727832)",
+                "adgroups": [
+                  {
+                    "token": "ki66hsl",
+                    "name": "Exact Match (262765074)",
+                    "creatives": [
+                      {
+                        "token": "sj0f06c",
+                        "name": "kaia back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "fud0nks",
+                "name": "GB,IE_Discovery_JG (285152864)",
+                "adgroups": [
+                  {
+                    "token": "rb8e7yd",
+                    "name": "Broad Match (285227484)",
+                    "creatives": [
+                      {
+                        "token": "78layrr",
+                        "name": "kaia back pain",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "81ojzi6",
+                        "name": "yoga men",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "osx47b1",
+                "name": "US_NonBrand_JG (262727835)",
+                "adgroups": [
+                  {
+                    "token": "g51nulf",
+                    "name": "Exact Match (262765077)",
+                    "creatives": [
+                      {
+                        "token": "5wj0som",
+                        "name": "va video connect",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "de4qg21",
+                        "name": "healthfit",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "nvmf2h5",
+                        "name": "my premise health",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      },
+                      {
+                        "token": "xy4ylrs",
+                        "name": "the back doctor",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "u5aut9b",
+                "name": "DE_NonBrand_JG (262922238)",
+                "adgroups": [
+                  {
+                    "token": "t1alznd",
+                    "name": "Exact Match (262982513)",
+                    "creatives": [
+                      {
+                        "token": "jepsg39",
+                        "name": "bauch weg",
+                        "kpi_values": [2, 1, 0, 0, 0]
+                      },
+                      {
+                        "token": "zgq58yt",
+                        "name": "my neck - workout für den nacken",
+                        "kpi_values": [1, 0, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "token": "xf6wffa",
+                "name": "BE,CZ,ES,FR,GR,HR,HU,IT,PT,RO_Brand_JG (285237021)",
+                "adgroups": [
+                  {
+                    "token": "ps7hbaf",
+                    "name": "Exact Match (285228822)",
+                    "creatives": [
+                      {
+                        "token": "62j4w20",
+                        "name": "kaia app",
+                        "kpi_values": [1, 1, 0, 0, 0]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
